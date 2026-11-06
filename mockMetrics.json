@@ -1,0 +1,15 @@
+{
+  "model": "EfficientNetB3 (Optimized) + Age Fusion",
+  "dataset": "HAM10000",
+  "accuracy": 0.947,
+  "precision": 0.952,
+  "recall": 0.941,
+  "f1_score": 0.946,
+  "validation_loss": 0.1834,
+  "training_accuracy": 0.958,
+  "validation_accuracy": 0.947,
+  "epochs_trained": 50,
+  "total_parameters": "12.3M",
+  "baseline_accuracy": 0.914,
+  "improvement_delta": 0.033
+}

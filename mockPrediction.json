@@ -1,0 +1,7 @@
+{
+  "predicted_class": "Melanoma",
+  "severity": "Severe",
+  "confidence": 94.7,
+  "description": "High-risk melanocytic lesion pattern detected. The model identified asymmetric borders, irregular pigmentation, and multi-tonal coloring consistent with malignant melanoma.",
+  "recommendation": "Immediate referral to a board-certified dermatologist or oncologist is strongly advised. Biopsy and histopathological examination are recommended for definitive diagnosis."
+}
